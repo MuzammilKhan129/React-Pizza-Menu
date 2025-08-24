@@ -25,3 +25,10 @@ Built to practice **React fundamentals** like components, props, conditional ren
 - **CSS3**
 
 ---
+
+
+## ⚡ Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/muzammilkhan129/React-Pizza-Menu.git
